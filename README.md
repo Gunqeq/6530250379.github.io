@@ -1,8 +1,6 @@
 # Hello, I'm [Songwut] 👋
 
-Welcome to my personal introduction!  
-I am a **[Your Profession or Hobby]**, passionate about **[Your Interests]**.  
-I love to explore new opportunities and connect with amazing people. 🌟
+🎓 - Gun 🥇
 
 ---
 
