@@ -23,4 +23,4 @@
 
 ---
 
-[My friend](https://panissaraaa.github.io/6530250557.github.io/)
+[My friend](https://pattaravut.github.io/6530250182.github.io/)
