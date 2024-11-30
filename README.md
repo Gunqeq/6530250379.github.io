@@ -5,7 +5,7 @@
 ---
 
 ### My Profile Picture
-![Your Image](your-image.jpg)
+![Your Image](picture.jpg)
 
 ---
 
