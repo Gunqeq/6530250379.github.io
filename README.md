@@ -10,7 +10,6 @@
 ---
 
 ### Connect with Me
-- [Facebook](https://www.facebook.com)
-- [Instagram](https://www.instagram.com)
-- [LinkedIn](https://www.linkedin.com)
+- [Facebook](https://www.facebook.com/profile.php?id=100008269782046)
+- [Instagram](https://www.instagram.com/ggun._xsw/)
 
