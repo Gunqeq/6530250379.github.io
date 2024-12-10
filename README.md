@@ -19,5 +19,5 @@
 
 | **Section**           | **Link**                       |
 |-----------------------|--------------------------------|
-|  **Authentication 🔎**  | [Authentication](authentication.md)  |
+|  **Authentication 🔎**  | [Authentication](Authentication.md)  |
 |  **Media 📸**          | [Media](Media.md)            |
